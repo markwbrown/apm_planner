@@ -130,7 +130,6 @@ QT += network \
     quick \
     printsupport \
     qml \
-    quickwidgets
 
 ##  testlib is needed even in release flavor for QSignalSpy support
 QT += testlib
